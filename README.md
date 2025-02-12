@@ -3,19 +3,28 @@
 </p>
 
 <h1 align="center">Medium Parser</h1>
-*Medium parser is a web browser extension to help read the member-only articles on medium.com and medium.com-based sites (e.g. towards-data-science)*
+Medium parser is a web browser extension to help read the member-only articles on medium.com and medium.com-based sites (e.g. towards-data-science)
 
-### # 15th February 2024: The extension was taken down by the Chrome Web Store (40k+ DAU).
-### # 25th February 2024: Uploaded a new version to the Chrome Web Store.
+
+### Upload Status
+| Date    | Status |
+| -------- | ------- |
+| 24th September 2023  | Uploaded the first version to the Chrome Web Store    |
+| 15th February 2024  | Taken down by the Chrome Web Store (40k+ DAU)   |
+| 25th February 2024 | Uploaded a new version to the Chrome Web Store     |
+| 8th September 2024    | Taken down by the Chrome Web Store (30k+ DAU)    |
+| 16th October 2024    | Uploaded a new version to the Chrome Web Store    |
+
+> DAU: Daily Active Users
 
 ## Installation Instructions
 ### Google Chrome / Microsoft Edge / Chromium Browsers (Brave/Opera Mini/Thorium etc.)
-[![Download from Chrome Web store](chrome/img/chrome.png)](https://chromewebstore.google.com/detail/medium-parser/bdkfodcnmgegolifeafnpbgjnjfohado) 
+[![Download from Chrome Web store](chrome/img/chrome.png)](https://chromewebstore.google.com/detail/medium-parser/elgmajanahbjpbcljflifdnnmpodfiij) 
 
-![Chrome Web Store](https://img.shields.io/chrome-web-store/rating-count/bdkfodcnmgegolifeafnpbgjnjfohado)
-![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/bdkfodcnmgegolifeafnpbgjnjfohado)
-![](https://img.shields.io/chrome-web-store/v/bdkfodcnmgegolifeafnpbgjnjfohado.svg?style=flat-square)
-![](https://img.shields.io/chrome-web-store/d/bdkfodcnmgegolifeafnpbgjnjfohado.svg?style=flat-square)
+![Chrome Web Store](https://img.shields.io/chrome-web-store/rating-count/elgmajanahbjpbcljflifdnnmpodfiij)
+![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/elgmajanahbjpbcljflifdnnmpodfiij)
+![](https://img.shields.io/chrome-web-store/v/elgmajanahbjpbcljflifdnnmpodfiij.svg?style=flat-square)
+![](https://img.shields.io/chrome-web-store/d/elgmajanahbjpbcljflifdnnmpodfiij.svg?style=flat-square)
 
 Or, Install manually
 1. Download this repo as a [ZIP file from GitHub](https://github.com/Xatta-Trone/medium-parser-extension/archive/refs/heads/main.zip).
@@ -46,7 +55,7 @@ Or, Install manually
 Please consider a donation if you find this extension helps you daily.
 Your contribution allows me to spend more time making this kind of extension/project.
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/monzurulislam1112?country.x=US&locale.x=en_US) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/imonzurul?country.x=US&locale.x=en_US) 
 [![Wise](https://img.shields.io/badge/Wise-394e79?style=for-the-badge&logo=wise&logoColor=00B9FF)](https://wise.com/pay/me/mdmonzuruli4)
 
 ## Preview
